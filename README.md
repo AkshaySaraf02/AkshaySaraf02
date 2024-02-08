@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧑🏻‍💻 Former Data Science Intern @ vHub.AI<br>🎓B.Sc in Mathematics, Statistics and Computer Science .<br>📚 I'm currently learning NLP, GANs and LLMs.<br>🎯 Goals: To be a Impactful Data Scientist.</p>
+<p align="left">🧑🏻‍💻 Data Scientist @ Capillary Technologies<br>🎓B.Sc in Mathematics, Statistics and Computer Science .<br>📚 I'm currently learning NLP, GANs and LLMs.<br>🎯 Goals: To be a Impactful Data Scientist.</p>
 
 ###
 
